@@ -1,0 +1,16 @@
+{
+    "name": "yadounis/fullcontact",
+    "description": "A laravel package to use FullContact API.",
+    "type": "library",
+    "require": {
+        "laravel/framework": "^5.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Younes Adounis",
+            "email": "y.adounis@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
